@@ -1,0 +1,6 @@
+
+{
+  "name": "DocuGenie AI",
+  "description": "An advanced AI-powered tool that analyzes source code and automatically generates clear, standardized documentation and project READMEs.",
+  "requestFramePermissions": []
+}
